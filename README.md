@@ -10,5 +10,4 @@
   4.DisjunctiveNormalFromCriteria作业(exerciseForDisjunctiveNormalFromCriteria)
   5.ControlFlowGraph作业(exerciseForControlFlowGraph)
   6.TestAndSendEmail作业(exerciseForTestAndSendEmail)
-  aabb
    
