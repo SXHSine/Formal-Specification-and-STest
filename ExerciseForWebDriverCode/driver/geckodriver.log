@@ -1,0 +1,32 @@
+1489977778247	geckodriver	INFO	Listening on 127.0.0.1:51528
+1489977779984	mozprofile::profile	INFO	Using profile path C:\Users\SXH~1.SIN\AppData\Local\Temp\rust_mozprofile.fPy5oBTXstx1
+1489977780121	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1489977780141	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51534
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1489977781575	Marionette	INFO	Listening on port 51534
+1489977782716	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1489977795131	geckodriver	INFO	Listening on 127.0.0.1:51553
+1489977797206	mozprofile::profile	INFO	Using profile path C:\Users\SXH~1.SIN\AppData\Local\Temp\rust_mozprofile.rMp9l3BhDPnZ
+1489977797372	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1489977797396	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51559
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1489977799046	Marionette	INFO	Listening on port 51559
+1489977800142	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1489977820892	geckodriver	INFO	Listening on 127.0.0.1:51584
+1489977822950	mozprofile::profile	INFO	Using profile path C:\Users\SXH~1.SIN\AppData\Local\Temp\rust_mozprofile.N5gyMCONkkE7
+1489977823074	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1489977823096	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51590
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1489977824151	Marionette	INFO	Listening on port 51590
+1489977825133	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1489977864187	geckodriver	INFO	Listening on 127.0.0.1:51613
+1489977866254	mozprofile::profile	INFO	Using profile path C:\Users\SXH~1.SIN\AppData\Local\Temp\rust_mozprofile.tgK6CxOXPso6
+1489977866329	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1489977866341	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51619
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1489977867134	Marionette	INFO	Listening on port 51619
+1489977867490	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
